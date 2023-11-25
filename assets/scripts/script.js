@@ -1,7 +1,7 @@
 var mario =document.querySelector(".mario")
 
 function PuloMario(){
-    alert("Você clicou")
+    mario.classList.add("pulo")
 
 }
 
